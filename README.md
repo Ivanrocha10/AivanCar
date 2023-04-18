@@ -40,6 +40,6 @@ Se você tiver algum feedback, por favor enviar para ivan.rocha.0987@gmail.com
 <p>
   Acesse o "AivanCar" pelo QR:
 </p>
-  <img src="./assets/qrcode.png/" alt="qrcode" class="capa">
+  <img src="./image/qrcode.png/" alt="qrcode" class="capa">
 
 Caso o QR não funcione, acesse <a href="https://ivanrocha10.github.io/AivanCar/">aqui</a>
